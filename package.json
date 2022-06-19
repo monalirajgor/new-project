@@ -1,0 +1,28 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monalirajgor/playwright-openkey-hostaddguest.git"
+  },
+  "homepage": "https://github.com/monalirajgor/playwright-openkey-hostaddguest#readme",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.8.2",
+    "@actions/exec": "^1.1.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.22.2",
+    "allure-commandline": "^2.17.2",
+    "@zeit/ncc": "^0.20.5",
+    "eslint": "^8.17.0"
+    }
+  }
+
+ 
+
